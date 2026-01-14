@@ -10,3 +10,4 @@ Notes and usage details for skills-janitor.
 - clarify the setup steps
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
